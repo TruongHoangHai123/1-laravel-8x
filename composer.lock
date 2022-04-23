@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c61ff82cbf0142a401a48a8161e1595a",
+    "content-hash": "62c615e8a823ca7fc041357fb3535a37",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4864,6 +4864,46 @@
             "time": "2021-12-08T09:12:39+00:00"
         },
         {
+            "name": "truong-hoang-hai123/mypackage",
+            "version": "10.5.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TruongHoangHai123/mypackage.git",
+                "reference": "e60566617fb13373f6d20f68ccc7c723ddd71a07"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TruongHoangHai123/mypackage/zipball/e60566617fb13373f6d20f68ccc7c723ddd71a07",
+                "reference": "e60566617fb13373f6d20f68ccc7c723ddd71a07",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhanNhatQuy\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "TruongHoangHai123",
+                    "email": "truonghoanghai.tdc2019@gmail.com"
+                }
+            ],
+            "description": "mypackage",
+            "keywords": [
+                "truonghoanghai123"
+            ],
+            "support": {
+                "issues": "https://github.com/TruongHoangHai123/mypackage/issues",
+                "source": "https://github.com/TruongHoangHai123/mypackage/tree/10.5.9"
+            },
+            "time": "2022-04-23T06:57:07+00:00"
+        },
+        {
             "name": "vlucas/phpdotenv",
             "version": "v5.4.1",
             "source": {
@@ -7593,5 +7633,5 @@
         "php": "^7.3|^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }

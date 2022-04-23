@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '56e28b07e824b94b456f996b3fa05a2fe09d09d8',
+        'reference' => '70eec03370e69c1caa46e66d7a64c5a9d4743bd6',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -391,7 +391,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '56e28b07e824b94b456f996b3fa05a2fe09d09d8',
+            'reference' => '70eec03370e69c1caa46e66d7a64c5a9d4743bd6',
             'dev_requirement' => false,
         ),
         'laravel/sail' => array(
@@ -790,17 +790,6 @@
             'replaced' => array(
                 0 => '4.2.3',
             ),
-        ),
-        'sangtm97/mypackage' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../sangtm97/mypackage',
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
-            'reference' => '93ee3c6bbf5206b2065b461f41dedf45cc7d15df',
-            'dev_requirement' => false,
         ),
         'sebastian/cli-parser' => array(
             'pretty_version' => '1.0.1',
@@ -1229,14 +1218,12 @@
             'dev_requirement' => false,
         ),
         'truong-hoang-hai123/mypackage' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => '10.5.9',
+            'version' => '10.5.9.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../truong-hoang-hai123/mypackage',
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
-            'reference' => '30500b38808292357e4df1a66d8b251fddad2dd2',
+            'aliases' => array(),
+            'reference' => 'e60566617fb13373f6d20f68ccc7c723ddd71a07',
             'dev_requirement' => false,
         ),
         'vlucas/phpdotenv' => array(

@@ -85,7 +85,6 @@ class ComposerStaticInit4e8f7e18a05fa737287df7d47c7c37bb
             'Symfony\\Component\\ErrorHandler\\' => 31,
             'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\Console\\' => 26,
-            'Sangtm97\\Mypackage\\' => 19,
         ),
         'R' => 
         array (
@@ -308,10 +307,6 @@ class ComposerStaticInit4e8f7e18a05fa737287df7d47c7c37bb
         'Symfony\\Component\\Console\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/console',
-        ),
-        'Sangtm97\\Mypackage\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/sangtm97/mypackage/src',
         ),
         'Ramsey\\Uuid\\' => 
         array (
